@@ -1,0 +1,66 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run
+
+## exception
+
+SocketException: SocketException: Success (OS Error: Success, errno = 0), port = 0
+
+```
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel master, 2.11.0-0.0.pre.752, on elementary OS 6.1 Jólnir 5.13.0-30-generic,
+    locale en_US.UTF-8)
+    • Flutter version 2.11.0-0.0.pre.752 at /home/faisalahmedsifat/snap/flutter/common/flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision a786f65700 (4 days ago), 2022-03-03 03:01:22 -0500
+    • Engine revision 993285f64d
+    • Dart version 2.17.0 (build 2.17.0-165.0.dev)
+    • DevTools version 2.11.1
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 32.1.0-rc1)
+    • Android SDK at /home/faisalahmedsifat/Android/Sdk
+    • Platform android-32, build-tools 32.1.0-rc1
+    • Java binary at:
+      /home/faisalahmedsifat/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/211.7628.21.2111
+      .8139111/jre/bin/java
+    • Java version OpenJDK Runtime Environment (build 11.0.11+0-b60-7590822)
+    • All Android licenses accepted.
+
+[✓] Chrome - develop for the web
+    • Chrome at google-chrome
+
+[✓] Android Studio (version 2021.1)
+    • Android Studio at
+      /home/faisalahmedsifat/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/211.7628.21.2111
+      .8139111
+    • Flutter plugin version 65.1.2
+    • Dart plugin version 211.7808
+    • Java version OpenJDK Runtime Environment (build 11.0.11+0-b60-7590822)
+
+[✓] IntelliJ IDEA Ultimate Edition (version 2021.3)
+    • IntelliJ at /home/faisalahmedsifat/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/213.6777.52
+    • Flutter plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/9212-flutter
+    • Dart plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/6351-dart
+
+[✓] VS Code
+    • VS Code at /snap/code/current
+    • Flutter extension version 3.36.0
+
+[✓] Connected device (2 available)
+    • sdk gphone x86 (mobile) • emulator-5554 • android-x86    • Android 11 (API 30) (emulator)
+    • Chrome (web)            • chrome        • web-javascript • Google Chrome 99.0.4844.51
+
+[✓] HTTP Host Availability
+    • All required HTTP hosts are available
+
+• No issues found!
+```
